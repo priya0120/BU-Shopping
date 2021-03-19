@@ -1,0 +1,19 @@
+{
+  "name": "bu-shopping",
+  "version": "1.0.0",
+  "description": "shopping-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priya0120/BU-Shopping.git"
+  },
+  "author": "Priyanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priya0120/BU-Shopping/issues"
+  },
+  "homepage": "https://github.com/priya0120/BU-Shopping#readme"
+}
